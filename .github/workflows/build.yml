@@ -22,4 +22,4 @@ jobs:
         java-version: '23'  # Java 23 설정
 
     - name: Build with Gradle
-      run: ./gradlew build
+      run: /gradle build
